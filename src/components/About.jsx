@@ -144,7 +144,7 @@ const About = ({ darkMode, toggleDarkMode }) => {
               <div className="about-image-container">
                 <div className="image-wrapper">
                   <img
-                    src="public\images\Untitled_design__3_-Picsart-AiImageEnhancer-removebg-preview (1).png"
+                    src="images\Untitled_design__3_-Picsart-AiImageEnhancer-removebg-preview (1).png"
                     alt="Rushi Solanke"
                     className="profile-image"
                   />
@@ -242,7 +242,7 @@ const About = ({ darkMode, toggleDarkMode }) => {
               experience.
             </p>
             <a
-              href="public/images/Resume.pdf"
+              href="images/Resume.pdf"
               download
               className="resume-button"
             >

@@ -255,7 +255,7 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
             onClick={closeMenu}
           >
             <img
-              src="public\images\WhatsApp Image 2025-09-05 at 8.51.43 PM.jpeg"
+              src="images\logo.jpeg"
               alt="Logo"
             />
           </a>

@@ -371,7 +371,7 @@ const Home = ({ darkMode, toggleDarkMode }) => {
               <div className="profileimg">
                 <div className="profile-placeholder">
                   <img
-                    src="public\images\home.png"
+                    src="images\home.png"
                     alt="Profile"
                     loading="lazy"
                     onError={(e) => {
@@ -407,7 +407,7 @@ const Home = ({ darkMode, toggleDarkMode }) => {
             </div>
             <div className="sec2imgbox">
               <img
-                src="public\images\Untitled_design__1_-Picsart-AiImageEnhancer_-_Copy-removebg-preview.png"
+                src="images\Untitled_design__1_-Picsart-AiImageEnhancer_-_Copy-removebg-preview.png"
                 alt="Project showcase"
                 loading="lazy"
               // onError={(e) => {
