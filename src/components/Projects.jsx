@@ -32,7 +32,7 @@ const Projects = ({ darkMode, toggleDarkMode }) => {
       about: `The NariShakti Android App is designed to empower women by combining safety, health, and education in a single mobile platform. Built with Java and Android Studio, and powered by Firebase for real-time alerts and cloud-based data management, the app ensures users can access vital resources instantly.
       Key features include real-time safety alerts, curated health information, and educational content to support women in everyday life. The project demonstrates end-to-end mobile app development, including user authentication, database integration, and responsive UI design.`,
       technologies: ["Java", "Android Studio", "Firebase"],
-      githubLink: "https://github.com/yourusername/narishakti",
+      githubLink: "https://github.com/rushikeshsolanke/womensafety-application-in-android",
       liveLink: "",
       image:
         "https://mir-s3-cdn-cf.behance.net/projects/404/79a360121482185.Y3JvcCwxNDAwLDEwOTUsMCww.png",
@@ -45,7 +45,7 @@ const Projects = ({ darkMode, toggleDarkMode }) => {
       about: `This project is a responsive frontend for a booking system, designed to help users manage reservations and schedules efficiently. Built using HTML, CSS, and JavaScript, it includes interactive forms, real-time updates, and a clean, user-friendly interface.
       The project demonstrates frontend development skills, responsive design, and the ability to create intuitive interfaces that enhance user experience.`,
       technologies: ["HTML", "CSS", "JavaScript"],
-      githubLink: "https://github.com/yourusername/booking-system",
+      githubLink: "https://github.com/rushikeshsolanke/Sport-Web-",
       liveLink: "https://stupendous-crostata-3b3eb8.netlify.app/",
       image:
         "https://tse2.mm.bing.net/th/id/OIP.RDArN_bD5RhU3kLnTaAXIgHaFB?rs=1&pid=ImgDetMain&o=7&rm=3",
@@ -58,7 +58,7 @@ const Projects = ({ darkMode, toggleDarkMode }) => {
       about: `The Finance Tracker is a full-stack web application that helps users monitor expenses, savings, and financial goals. Built with React for the frontend, Node.js for backend APIs, and MongoDB for persistent storage, it allows secure user authentication and real-time financial tracking.
       Key highlights include interactive dashboards, data visualization for insights, and features to set and achieve financial targets.`,
       technologies: ["React", "Node.js", "MongoDB"],
-      githubLink: "https://github.com/yourusername/finance-tracker",
+      githubLink: "https://github.com/rushikeshsolanke/finance-web-application",
       liveLink: "https://ciode-crafters-m2.vercel.app/",
       image:
         "https://other-levels.com/cdn/shop/products/Personal_Finance_Tracker_Advanced_Excel_Dashboards.png?v=1732556846",
@@ -71,8 +71,8 @@ const Projects = ({ darkMode, toggleDarkMode }) => {
       about: `The Audio Deepfake Detection project leverages deep learning techniques to detect synthetic/manipulated audio. Using TensorFlow and Librosa for feature extraction and classification, the system achieves high accuracy in distinguishing real vs. fake audio samples.
       This project showcases applied machine learning, signal processing, and model deployment in Python.`,
       technologies: ["Python", "TensorFlow", "Librosa"],
-      githubLink: "https://github.com/yourusername/audio-detection",
-      liveLink: "",
+      githubLink: "https://github.com/rushikeshsolanke/deepfake-audio-detection-updated",
+      liveLink: "/",
       image:
         "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop",
     },
@@ -84,8 +84,8 @@ const Projects = ({ darkMode, toggleDarkMode }) => {
       about: `This portfolio website is designed to showcase my projects, skills, and resume in a professional and modern format. Developed with React and GSAP for smooth animations, it provides a responsive and interactive user experience.
       The site includes a project showcase, resume download, contact form, and light/dark themes.`,
       technologies: ["React", "GSAP", "CSS3"],
-      githubLink: "https://github.com/yourusername/portfolio",
-      liveLink: "https://yourportfolio.com",
+      githubLink: "https://github.com/rushikeshsolanke/portfoliors",
+      liveLink: "https://rushisolanke-myportfolio.vercel.app/",
       image:
         "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1000&auto=format&fit=crop",
     },
